@@ -2,9 +2,10 @@
 
 <h1 align="center">Kai Steinke</h1>
 <p align="center">I like making stuff and putting it on the internet.</p>
-<p align="center">To learn more about me check out my website: [kaisteinke.com](https://kaisteinke.com)<br>
-If you're wondering why my GitHub is so empty, it's because I mainly use [GitLab](https://gitlab.com/kaisteinke) and most of my projects are private anyway.
-</p>
+<div align="center">
+  <a href="https://kaisteinke.com">kaisteinke.com</a> • 
+  <a href="https://gitlab.com/kaisteinke">gitlab.com/kaisteinke</a>
+</div>
 
 
 <p align="center">
