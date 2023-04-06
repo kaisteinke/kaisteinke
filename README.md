@@ -7,14 +7,7 @@ Hi 👋 My name is Kai Steinke
 
 ## About Me
 
-I am currently in my last year at my apprenticeship at Siemens as a computer scientist specializing in application development.
-
-* 🌍  I'm based in Zug, Switzerland
-* 🖥️  See my portfolio at [kaisteinke.com](https://kaisteinke.com)
-* ✉️  You can contact me at [kai@steinke.dev](mailto:kai@steinke.dev)
-* 🤝  I'm open to collaborating on anything and everything
-* ⚡  I'm fluent in English and German
-
+I am currently at Siemens working as a application developer.
 
 ### Socials
 
